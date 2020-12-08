@@ -1,4 +1,6 @@
 # The Abstraction and Reasoning Corpus (ARC)
+## Edited by Conor Wallace 20235661
+## CT5148 Programming Assignment 3
 
 This repository contains the ARC task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.
 
