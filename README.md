@@ -1,6 +1,7 @@
 # The Abstraction and Reasoning Corpus (ARC)
 ## Edited by Conor Wallace 20235661
 ## CT5148 Programming Assignment 3
+For this assignment I have read Chollet's paper "On the Measure of Intelligence". Chollet believes that the algorithm that we have been using for measuring intelligence are a little out dated, and that we need to define intelligence better. The Turing test that was devised by Alan Turing in the 1950's is an example of how the measure of intelligence has moved on. This test was meant to be a device to be used in philosophical discussion, and not used as a test of intelligence. Chollet uses the following statement “Intelligence measures an agent’s ability to achieve goals in a wide range of environments.” So rather being able to solve problems by adaptability, that our algorithms need to have the skill to be able to learn new tasks, skill acquisition, as he calls it. 
 
 This repository contains the ARC task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.
 
